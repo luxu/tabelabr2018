@@ -1,0 +1,72 @@
+[
+    {
+        "rodada": "Rodada 1",
+        "horario": "16:00",
+        "jogo": "Cruzeiro - MG x Grêmio - RS",
+        "timeDaCasa": "CruzeiroMG",
+        "timeDeFora": "GrêmioRS"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "19:00",
+        "jogo": "Vitória - BA x Flamengo - RJ",
+        "timeDaCasa": "VitóriaBA",
+        "timeDeFora": "FlamengoRJ"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "21:00",
+        "jogo": "Santos - SP x Ceará - CE",
+        "timeDaCasa": "SantosSP",
+        "timeDeFora": "CearáCE"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "11:00",
+        "jogo": "América - MG x Sport - PE",
+        "timeDaCasa": "AméricaMG",
+        "timeDeFora": "SportPE"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "16:00",
+        "jogo": "Internacional - RS x Bahia - BA",
+        "timeDaCasa": "InternacionalRS",
+        "timeDeFora": "BahiaBA"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "16:00",
+        "jogo": "Corinthians - SP x Fluminense - RJ",
+        "timeDaCasa": "CorinthiansSP",
+        "timeDeFora": "FluminenseRJ"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "16:00",
+        "jogo": "Vasco da Gama - RJ x Atlético - MG",
+        "timeDaCasa": "Vasco da GamaRJ",
+        "timeDeFora": "AtléticoMG"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "19:00",
+        "jogo": "Atlético - PR x Chapecoense - SC",
+        "timeDaCasa": "AtléticoPR",
+        "timeDeFora": "ChapecoenseSC"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "20:00",
+        "jogo": "São Paulo - SP x Paraná - PR",
+        "timeDaCasa": "São PauloSP",
+        "timeDeFora": "ParanáPR"
+    },
+    {
+        "rodada": "Rodada 1",
+        "horario": "20:00",
+        "jogo": "Botafogo - RJ x Palmeiras - SP",
+        "timeDaCasa": "BotafogoRJ",
+        "timeDeFora": "PalmeirasSP"
+    }
+]
